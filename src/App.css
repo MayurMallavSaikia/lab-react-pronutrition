@@ -1,0 +1,11 @@
+.container{
+  display: flex;
+}
+
+.button {
+  width: auto;
+  height: 3.5vh;
+  background-color: #5f27cd;
+  color: white;
+  text-align: justify;
+}
